@@ -1,0 +1,11 @@
+## Links de repositorios para las entregas de TyH2
+
+Alumnos:
+* Alvarez Battocchia, Martina
+* Báscolo, Felicitas
+* De Mezzo, Facundo
+
+Primera entrega:
+1. [Ágil](https://github.com/FacuMartiFeli/Agil)
+2. [Proyecto de Github](https://github.com/users/FacuMartiFeli/projects/1)
+![image](https://github.com/FacuMartiFeli/FacuMartiFeli/assets/142028795/d339713f-30c7-4965-a8a0-d6ca3d0fd7bf)
