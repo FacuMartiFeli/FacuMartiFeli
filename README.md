@@ -1,9 +1,9 @@
 ## Links de repositorios para las entregas de TyH2
 
 Alumnos:
-* Alvarez Battocchia, Martina
-* Báscolo, Felicitas
-* De Mezzo, Facundo
+* Alvarez Battocchia, Martina - martinaalvarezok@gmail.com
+* Báscolo, Felicitas - felibascolo01@gmail.com
+* De Mezzo, Facundo - em.cn.demezzo.facundo@gmail.com
 
 Primera entrega:
 1. [Ágil](https://github.com/FacuMartiFeli/Agil)
