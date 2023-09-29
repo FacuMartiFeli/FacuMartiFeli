@@ -1,4 +1,4 @@
-## Links de repositorios para las entregas de TyH2
+# Links de repositorios para las entregas de TyH2
 
 Alumnos:
 * Alvarez Battocchia, Martina/ martinaalvarezok@gmail.com
