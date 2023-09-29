@@ -7,7 +7,7 @@ Alumnos:
 
 ## Entrega módulo 1 "Proyectos Ágiles":
 1. [Ágil](https://github.com/FacuMartiFeli/Agil)
-En el archivo "Ágil" contiene los siguientes trabajos:
+ El archivo "Ágil" contiene los siguientes trabajos:
    * Tesina
    * Gráfico BurnDown
    * Gráfico de Gantt 
