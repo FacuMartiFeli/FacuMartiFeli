@@ -5,7 +5,7 @@ Alumnos:
 * Báscolo, Felicitas/ felibascolo01@gmail.com
 * De Mezzo, Facundo/ em.cn.demezzo.facundo@gmail.com
 
-Primera entrega:
+## Entrega módulo 1 "Proyectos Ágiles":
 1. [Ágil](https://github.com/FacuMartiFeli/Agil)
 2. [Estructura Burn Down](https://github.com/users/FacuMartiFeli/projects/1)
 ![image](https://github.com/FacuMartiFeli/FacuMartiFeli/assets/142028795/d339713f-30c7-4965-a8a0-d6ca3d0fd7bf)
